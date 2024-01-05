@@ -1,0 +1,8 @@
+book1: [firstName= 1
+, lastName= 1
+, address= 1
+, city= 1
+, state= 1n, zip= 1
+, phoneNumber= 1
+, email= 1
+]
